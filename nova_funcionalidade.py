@@ -1,0 +1,1 @@
+print("Módulo SCM ativo")
